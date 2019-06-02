@@ -1,0 +1,10 @@
+.a1{
+  margin-top: 50px;
+  height:420px;
+  width:560px;
+  border-radius: 20px 20px 33px 33px;
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
+
+}
